@@ -3,5 +3,5 @@
 | Check if done | Concept         |
 | ------------- | --------------- |
 | - [ ]         |                 |
-| - [ ]         | create next app |
+| - [x]         | create next app |
 | - [ ]         |                 |
