@@ -2,6 +2,6 @@
 
 | Check if done | Concept         |
 | ------------- | --------------- |
-| - []          |                 |
-| - []          | create next app |
-| - []          |                 |
+| - [ ]         |                 |
+| - [ ]         | create next app |
+| - [ ]         |                 |
